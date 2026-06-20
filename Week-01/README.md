@@ -1,3 +1,3 @@
 # Week-01
 
-#### Tasks will be uploaded here.
+Tasks will be uploaded here.
